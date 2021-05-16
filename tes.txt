@@ -1,1 +1,5 @@
 file contoh
+contoh1
+contoh2
+contoh4
+contoh5
